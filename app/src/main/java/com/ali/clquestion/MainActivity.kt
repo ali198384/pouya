@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         //new line
-
+        //ajab pully mikone
     }
     fun myfunction() {
         Log.v("TAG1", "Hi Ali")
