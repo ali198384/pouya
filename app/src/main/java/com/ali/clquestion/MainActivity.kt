@@ -14,6 +14,6 @@ class MainActivity : AppCompatActivity() {
     }
     fun myFunction() {
         Log.v("TAG1", "Hi Ali")
-        Log.v("TAG1", "test1")
+        Log.v("TAG1", "test2")
     }
 }
