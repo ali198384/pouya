@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         //new line
         //ajab pully mikone
         //fana raft
+        //123
     }
     fun myfunction() {
         Log.v("TAG1", "Hi Ali")
