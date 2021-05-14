@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //new line
         //ajab pully mikone
+        //fana raft
     }
     fun myfunction() {
         Log.v("TAG1", "Hi Ali")
