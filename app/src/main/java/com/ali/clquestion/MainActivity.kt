@@ -12,7 +12,8 @@ class MainActivity : AppCompatActivity() {
         //fana raft
         //123
     }
-    fun myfunction() {
+    fun myFunction() {
         Log.v("TAG1", "Hi Ali")
+        Log.v("TAG1", "test1")
     }
 }
